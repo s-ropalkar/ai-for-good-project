@@ -1,0 +1,101 @@
+date,location,product_id,product_name,category,opening_stock,received,issued,closing_stock,daily_sales_avg,days_to_expiry,lead_time_days
+2025-01-06,Pune,P002,Wheat Flour,Food,196,18,45,169,33,12,3
+2025-01-08,Mumbai,P001,Rice Pack,Food,327,67,29,365,36,4,3
+2025-01-01,Aurangabad,P002,Wheat Flour,Food,162,55,68,149,53,2,3
+2025-01-06,Pune,P003,Biscuits,Food,51,0,56,0,9,4,4
+2025-01-03,Pune,P006,ORS Packets,Medicine,335,16,71,280,24,9,6
+2025-01-03,Mumbai,P005,Paracetamol,Medicine,82,32,70,44,55,11,6
+2025-01-09,Pune,P002,Wheat Flour,Food,244,13,19,238,16,14,2
+2025-01-03,Pune,P007,Sanitizer,Hygiene,236,18,58,196,40,12,6
+2025-01-07,Nashik,P003,Biscuits,Food,87,71,14,144,52,10,3
+2025-01-04,Mumbai,P007,Sanitizer,Hygiene,309,61,74,296,53,8,3
+2025-01-01,Pune,P002,Wheat Flour,Food,313,46,44,315,18,1,5
+2025-01-10,Mumbai,P002,Wheat Flour,Food,185,15,45,155,34,2,3
+2025-01-02,Nagpur,P001,Rice Pack,Food,282,36,33,285,33,1,6
+2025-01-02,Aurangabad,P001,Rice Pack,Food,166,61,32,195,13,12,6
+2025-01-04,Pune,P005,Paracetamol,Medicine,357,37,39,355,59,10,4
+2025-01-02,Mumbai,P003,Biscuits,Food,148,6,25,129,30,9,5
+2025-01-07,Aurangabad,P007,Sanitizer,Hygiene,393,34,79,348,23,14,3
+2025-01-10,Nagpur,P001,Rice Pack,Food,290,74,33,331,50,3,5
+2025-01-06,Nashik,P008,Soap,Hygiene,153,41,34,160,43,3,4
+2025-01-10,Nashik,P002,Wheat Flour,Food,336,46,64,318,20,10,2
+2025-01-02,Aurangabad,P006,ORS Packets,Medicine,96,93,71,118,56,5,5
+2025-01-01,Pune,P008,Soap,Hygiene,394,70,18,446,28,1,5
+2025-01-10,Nashik,P008,Soap,Hygiene,286,65,11,340,31,9,2
+2025-01-07,Nashik,P008,Soap,Hygiene,108,58,57,109,45,13,4
+2025-01-01,Mumbai,P001,Rice Pack,Food,152,51,24,179,47,8,6
+2025-01-10,Aurangabad,P005,Paracetamol,Medicine,385,6,61,330,18,9,6
+2025-01-03,Aurangabad,P003,Biscuits,Food,205,7,45,167,30,8,3
+2025-01-06,Nashik,P002,Wheat Flour,Food,198,10,49,159,15,4,2
+2025-01-07,Nagpur,P007,Sanitizer,Hygiene,117,13,20,110,45,8,4
+2025-01-03,Nashik,P001,Rice Pack,Food,181,35,79,137,35,3,6
+2025-01-10,Aurangabad,P004,Milk Powder,Food,340,29,39,330,18,6,4
+2025-01-05,Aurangabad,P002,Wheat Flour,Food,300,50,63,287,28,9,5
+2025-01-07,Nagpur,P006,ORS Packets,Medicine,209,98,22,285,51,9,2
+2025-01-02,Nagpur,P002,Wheat Flour,Food,144,98,69,173,37,4,6
+2025-01-06,Aurangabad,P001,Rice Pack,Food,278,43,60,261,34,6,3
+2025-01-03,Aurangabad,P005,Paracetamol,Medicine,277,63,36,304,58,1,2
+2025-01-03,Aurangabad,P002,Wheat Flour,Food,61,73,25,109,12,6,5
+2025-01-09,Nagpur,P007,Sanitizer,Hygiene,135,46,43,138,5,7,3
+2025-01-04,Aurangabad,P007,Sanitizer,Hygiene,222,43,14,251,10,10,5
+2025-01-04,Nagpur,P006,ORS Packets,Medicine,368,47,70,345,21,10,5
+2025-01-10,Nagpur,P006,ORS Packets,Medicine,313,71,59,325,7,6,5
+2025-01-02,Pune,P008,Soap,Hygiene,207,92,55,244,57,6,4
+2025-01-02,Aurangabad,P005,Paracetamol,Medicine,135,56,38,153,18,12,6
+2025-01-01,Nashik,P002,Wheat Flour,Food,292,85,37,340,6,10,6
+2025-01-03,Mumbai,P003,Biscuits,Food,65,23,11,77,53,12,4
+2025-01-10,Nagpur,P007,Sanitizer,Hygiene,107,2,79,30,6,7,5
+2025-01-04,Nashik,P005,Paracetamol,Medicine,74,67,19,122,7,9,6
+2025-01-05,Nagpur,P006,ORS Packets,Medicine,144,35,45,134,30,11,4
+2025-01-01,Nagpur,P007,Sanitizer,Hygiene,256,14,51,219,17,3,2
+2025-01-05,Pune,P006,ORS Packets,Medicine,88,50,79,59,10,3,4
+2025-01-02,Mumbai,P007,Sanitizer,Hygiene,165,74,45,194,42,8,5
+2025-01-09,Mumbai,P002,Wheat Flour,Food,311,38,51,298,55,3,3
+2025-01-09,Nagpur,P003,Biscuits,Food,348,97,59,386,33,9,4
+2025-01-02,Nashik,P007,Sanitizer,Hygiene,173,29,28,174,21,8,4
+2025-01-10,Pune,P007,Sanitizer,Hygiene,303,24,11,316,39,7,6
+2025-01-01,Aurangabad,P008,Soap,Hygiene,197,58,45,210,23,10,4
+2025-01-06,Nagpur,P008,Soap,Hygiene,95,63,11,147,58,11,2
+2025-01-05,Pune,P005,Paracetamol,Medicine,194,96,75,215,18,5,4
+2025-01-01,Nashik,P007,Sanitizer,Hygiene,186,61,46,201,37,3,3
+2025-01-04,Aurangabad,P001,Rice Pack,Food,338,52,31,359,25,6,5
+2025-01-04,Mumbai,P005,Paracetamol,Medicine,72,52,46,78,14,10,4
+2025-01-08,Pune,P007,Sanitizer,Hygiene,194,92,62,224,12,11,3
+2025-01-07,Pune,P008,Soap,Hygiene,111,76,34,153,11,4,5
+2025-01-02,Aurangabad,P007,Sanitizer,Hygiene,267,89,57,299,25,7,5
+2025-01-03,Nagpur,P006,ORS Packets,Medicine,217,41,18,240,54,11,3
+2025-01-01,Nashik,P008,Soap,Hygiene,221,23,68,176,58,8,2
+2025-01-09,Aurangabad,P001,Rice Pack,Food,365,92,42,415,53,1,4
+2025-01-07,Nashik,P005,Paracetamol,Medicine,130,39,54,115,36,14,6
+2025-01-10,Aurangabad,P003,Biscuits,Food,150,11,58,103,46,6,3
+2025-01-02,Aurangabad,P002,Wheat Flour,Food,178,57,10,225,51,2,2
+2025-01-09,Mumbai,P001,Rice Pack,Food,145,35,75,105,19,2,5
+2025-01-04,Nagpur,P005,Paracetamol,Medicine,350,26,35,341,51,9,4
+2025-01-01,Mumbai,P006,ORS Packets,Medicine,320,61,71,310,51,14,4
+2025-01-02,Mumbai,P006,ORS Packets,Medicine,353,79,12,420,24,8,2
+2025-01-10,Nashik,P005,Paracetamol,Medicine,164,4,74,94,34,5,5
+2025-01-07,Mumbai,P007,Sanitizer,Hygiene,65,41,75,31,59,3,3
+2025-01-06,Nashik,P004,Milk Powder,Food,361,32,45,348,51,4,4
+2025-01-10,Pune,P002,Wheat Flour,Food,149,59,48,160,14,9,3
+2025-01-05,Nagpur,P001,Rice Pack,Food,146,26,64,108,37,14,5
+2025-01-08,Pune,P002,Wheat Flour,Food,141,92,30,203,51,5,4
+2025-01-01,Mumbai,P004,Milk Powder,Food,326,32,67,291,26,13,5
+2025-01-01,Nagpur,P003,Biscuits,Food,90,27,16,101,13,8,5
+2025-01-06,Mumbai,P003,Biscuits,Food,313,28,64,277,43,3,3
+2025-01-07,Pune,P003,Biscuits,Food,389,4,74,319,34,1,4
+2025-01-07,Aurangabad,P003,Biscuits,Food,298,30,32,296,46,10,4
+2025-01-02,Nagpur,P008,Soap,Hygiene,362,35,54,343,24,1,5
+2025-01-07,Pune,P001,Rice Pack,Food,88,45,38,95,53,13,6
+2025-01-08,Nagpur,P006,ORS Packets,Medicine,338,40,17,361,15,6,4
+2025-01-03,Nashik,P005,Paracetamol,Medicine,166,5,67,104,48,13,6
+2025-01-03,Pune,P003,Biscuits,Food,298,35,19,314,41,9,4
+2025-01-06,Aurangabad,P002,Wheat Flour,Food,61,18,53,26,53,13,2
+2025-01-09,Pune,P008,Soap,Hygiene,342,19,35,326,33,1,4
+2025-01-03,Aurangabad,P007,Sanitizer,Hygiene,302,5,78,229,51,9,3
+2025-01-06,Nagpur,P005,Paracetamol,Medicine,125,86,36,175,35,6,4
+2025-01-05,Nagpur,P005,Paracetamol,Medicine,206,46,77,175,16,13,3
+2025-01-08,Aurangabad,P003,Biscuits,Food,270,52,64,258,36,3,5
+2025-01-10,Pune,P006,ORS Packets,Medicine,209,10,19,200,13,14,6
+2025-01-10,Nagpur,P005,Paracetamol,Medicine,179,59,14,224,48,11,6
+2025-01-06,Aurangabad,P008,Soap,Hygiene,331,84,16,399,18,5,2
+2025-01-02,Aurangabad,P004,Milk Powder,Food,296,66,35,327,20,3,6
