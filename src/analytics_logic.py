@@ -1,5 +1,9 @@
 import pandas as pd
-import mysql.connector
+try:
+    import mysql.connector
+except:
+    mysql = None
+
 from datetime import date
 
 # ---------- DB CONNECTION ----------

@@ -1,4 +1,8 @@
-import mysql.connector
+try:
+    import mysql.connector
+except:
+    mysql = None
+
 import os
 from dotenv import load_dotenv
 

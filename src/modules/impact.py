@@ -1,6 +1,10 @@
 import streamlit as st
 import pandas as pd
-import mysql.connector
+try:
+    import mysql.connector
+except:
+    mysql = None
+
 import pandas as pd
 
 def show():
