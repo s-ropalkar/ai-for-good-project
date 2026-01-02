@@ -24,28 +24,28 @@ page = st.sidebar.radio(
 )
 
 if page == "📊 Overview":
-    from modules.overview import show
+    from src.modules.overview import show
 
     show()
 
 elif page == "🚨 Risk & Alerts":
-    from modules.risk_alerts import show
+    from src.modules.risk_alerts import show
     show()
 
 elif page == "🗺️ Allocation Insights":
-    from modules.allocation import show
+    from src.modules.allocation import show
     show()
 
 elif page == "🤝 Donation & Redistribution":
-    from modules.donation import show
+    from src.modules.donation import show
     show()
 
 elif page == "📦 Reorder Planning":
-    from modules.reorder import show
+    from src.modules.reorder import show
     show()
 
 elif page == "📈 Impact & Audit":
-    from modules.impact import show
+    from src.modules.impact import show
     show()
 # ngo_demand (
 #     demand_id,
